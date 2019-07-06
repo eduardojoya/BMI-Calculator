@@ -1,2 +1,2 @@
-# BMI-Calculator
-BMI Calculator created with node and express
+# Calculator-BMICalculator
+Basic calculator and BMI calculator 
